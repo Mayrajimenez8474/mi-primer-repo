@@ -1,1 +1,2 @@
 Estoy aprendiendo a utilizar Git y GitHub para guardar los cambios de mis proyectos y llevar un control de sus versiones.
+Cambio realizado desde mi computadora.
