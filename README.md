@@ -15,3 +15,5 @@ Aprender a utilizar Git y GitHub para administrar proyectos.
 - README.md: información del proyecto.
 - notas.txt: notas de aprendizaje.
 - .gitignore: archivos que Git debe ignorar.
+
+Cambio realizado directamente desde GitHub para practicar la sincronización.
